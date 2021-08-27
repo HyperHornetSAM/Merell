@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Funkers.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Funkers0000" x="0" y="0" width="2444" height="373" frameX="0" frameY="-12" frameWidth="2444" frameHeight="385"/>
+	<SubTexture name="Funkers0001" x="0" y="0" width="2444" height="373" frameX="0" frameY="-12" frameWidth="2444" frameHeight="385"/>
+	<SubTexture name="Funkers0002" x="0" y="373" width="2432" height="378" frameX="-6" frameY="-7" frameWidth="2444" frameHeight="385"/>
+	<SubTexture name="Funkers0003" x="0" y="373" width="2432" height="378" frameX="-6" frameY="-7" frameWidth="2444" frameHeight="385"/>
+	<SubTexture name="Funkers0004" x="0" y="751" width="2408" height="385" frameX="-18" frameY="0" frameWidth="2444" frameHeight="385"/>
+	<SubTexture name="Funkers0005" x="0" y="751" width="2408" height="385" frameX="-18" frameY="0" frameWidth="2444" frameHeight="385"/>
+	<SubTexture name="Funkers0006" x="0" y="751" width="2408" height="385" frameX="-18" frameY="0" frameWidth="2444" frameHeight="385"/>
+	<SubTexture name="Funkers0007" x="0" y="751" width="2408" height="385" frameX="-18" frameY="0" frameWidth="2444" frameHeight="385"/>
+	<SubTexture name="Funkers0008" x="0" y="751" width="2408" height="385" frameX="-18" frameY="0" frameWidth="2444" frameHeight="385"/>
+	<SubTexture name="Funkers0009" x="0" y="751" width="2408" height="385" frameX="-18" frameY="0" frameWidth="2444" frameHeight="385"/>
+	<SubTexture name="Funkers0010" x="0" y="751" width="2408" height="385" frameX="-18" frameY="0" frameWidth="2444" frameHeight="385"/>
+	<SubTexture name="Funkers0011" x="0" y="751" width="2408" height="385" frameX="-18" frameY="0" frameWidth="2444" frameHeight="385"/>
+	<SubTexture name="Funkers0012" x="0" y="751" width="2408" height="385" frameX="-18" frameY="0" frameWidth="2444" frameHeight="385"/>
+</TextureAtlas>

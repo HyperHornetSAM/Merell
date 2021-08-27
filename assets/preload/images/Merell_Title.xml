@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Merell Title.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Merell Title0000" x="0" y="0" width="739" height="760" frameX="0" frameY="-36" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0001" x="0" y="0" width="739" height="760" frameX="0" frameY="-36" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0002" x="739" y="0" width="732" height="771" frameX="0" frameY="-25" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0003" x="739" y="0" width="732" height="771" frameX="0" frameY="-25" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0004" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0005" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0006" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0007" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0008" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0009" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0010" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0011" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0012" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0013" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0014" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0015" x="0" y="0" width="739" height="760" frameX="0" frameY="-36" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0016" x="0" y="0" width="739" height="760" frameX="0" frameY="-36" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0017" x="739" y="0" width="732" height="771" frameX="0" frameY="-25" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0018" x="739" y="0" width="732" height="771" frameX="0" frameY="-25" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0019" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0020" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0021" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0022" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0023" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0024" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0025" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0026" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0027" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0028" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+	<SubTexture name="Merell Title0029" x="0" y="771" width="716" height="795" frameX="0" frameY="0" frameWidth="739" frameHeight="796"/>
+</TextureAtlas>
