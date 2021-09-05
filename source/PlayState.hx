@@ -3528,12 +3528,17 @@ class PlayState extends MusicBeatState
 
 					FlxTransitionableState.skipNextTransIn = true;
 					FlxTransitionableState.skipNextTransOut = true;
+					if(curSong == "Pacer"){
+						var video:MP4Handler = new MP4Handler();
+						video.playMP4(Paths.video('roadkill_cutscene'), new PlayState()); 
+					}
 					prevCamFollow = camFollow;
 
 					PlayState.SONG = Song.loadFromJson(poop, PlayState.storyPlaylist[0]);
 					FlxG.sound.music.stop();
-
-					LoadingState.loadAndSwitchState(new PlayState());
+					if(curSong != "Pacer"){
+						LoadingState.loadAndSwitchState(new PlayState());
+					}
 					clean();
 				}
 			}
