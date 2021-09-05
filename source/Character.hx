@@ -56,6 +56,18 @@ class Character extends FlxSprite
 
 				playAnim('idle');
 				
+			case 'secret':
+				tex = Paths.getSparrowAtlas('Ultra_Secret','shared',true);
+				frames = tex;
+				animation.addByPrefix('idle', 'CARAMERELLDANSEN', 24, true);
+				animation.addByPrefix('singUP', 'CARAMERELLDANSEN', 24, false);
+				animation.addByPrefix('singRIGHT', 'CARAMERELLDANSEN', 24, false);
+				animation.addByPrefix('singDOWN', 'CARAMERELLDANSEN', 24, false);
+				animation.addByPrefix('singLEFT', 'CARAMERELLDANSEN', 24, false);
+				
+				loadOffsetFile(curCharacter);
+
+				playAnim('idle');
 			case 'gf-jacket':
 				tex = Paths.getSparrowAtlas('Jacket GF','shared',true);
 				frames = tex;

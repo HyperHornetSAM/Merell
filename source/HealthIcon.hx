@@ -41,7 +41,7 @@ class HealthIcon extends FlxSprite
 		if (char != 'bf-pixel' && char != 'bf-old')
 			char = char.split("-")[0];
 
-		if(char == 'merell-jacket' || char == 'merell-nojacket'){
+		if(char == 'merell-jacket' || char == 'merell-nojacket' || char == 'secret'){
 			loadGraphic(Paths.image('icons/icon-merell'), true, 150, 150);
 		}
 		else{
