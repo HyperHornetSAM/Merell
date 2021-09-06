@@ -31403,6 +31403,19 @@
     "startTime": 3229090.90909091,
     "changeBPM": false,
     "p2AltAnim": false,
+    "endTime": 3230545.45454545,
+    "mustHitSection": true
+   },
+   {
+    "lengthInSteps": 16,
+    "altAnim": false,
+    "p1AltAnim": false,
+    "typeOfSection": 0,
+    "sectionNotes": [],
+    "bpm": 165,
+    "startTime": 3230545.45454545,
+    "changeBPM": false,
+    "p2AltAnim": false,
     "endTime": null,
     "mustHitSection": true
    }
@@ -31420,7 +31433,7 @@
   "song": "Caramerelldansen",
   "validScore": true,
   "stage": "racetrack",
-  "needsVoices": true,
+  "needsVoices": false,
   "bpm": 165,
   "speed": 3
  }
